@@ -1,7 +1,7 @@
 <h1> Hi, I'm Dasha 👀 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="400" height="400"/>
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="gif with title I eat data for dreakfast" width="400" height="400"/>
 </div>
 
 ---
