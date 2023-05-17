@@ -7,7 +7,7 @@
 ---
 
 - 🧠 I'm Computer Science student from Russia
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning C++ and Python
 - 🎨 Interests: Reading, writing and going to the art galleries 
 - ⚡  Fun fact: I'm vegan and a big fan of plushies
 - 😄 Pronouns: she/her
